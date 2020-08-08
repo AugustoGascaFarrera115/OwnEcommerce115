@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eInoXsgae9X6pRpxWAcrrZS5HhMQLfdQb/7yo88YjaySXhsfn+3CoTDOwycQtUry74WzxUK9XlH5t5H1u36JFg==",
+  "success": true,
+  "projectFilePath": "D:\\Universidad\\NetProjects\\OwnEcommerce115\\SaulShop115\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felipe Gasca\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
