@@ -1,0 +1,9 @@
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Core\bin\Debug\netstandard2.0\Core.dll
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Core\obj\Debug\netstandard2.0\Core.dll
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Core\obj\Debug\netstandard2.0\Core.pdb

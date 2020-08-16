@@ -59,3 +59,7 @@ D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\API\bin\Debug\netcoreapp3
 D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\API\bin\Debug\netcoreapp3.1\Core.dll
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\API\bin\Debug\netcoreapp3.1\Core.pdb
