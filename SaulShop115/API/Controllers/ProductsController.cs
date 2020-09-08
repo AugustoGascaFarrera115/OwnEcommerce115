@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Infrastructure.Data;
 using Core.Entities;
 using Core.Interfaces;
+using Core.Specifications;
 
 namespace API.Controllers
 {
@@ -39,7 +40,11 @@ namespace API.Controllers
         {
             //var products = await repo.GetProductsAsync();
 
-            var products = await productsRepo.ListAllAsync();
+            var spec = new ProductsWithTypesAndBrandsSpecifications();
+
+            //var products = await productsRepo.ListAllAsync();
+
+            var products = await productsRepo.ListAsync(spec);
 
             return Ok(products);
         }
@@ -49,7 +54,10 @@ namespace API.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<Product>> GetProduct(int id)
         {
-            return await productsRepo.GetByIdAsync(id);
+            //return await productsRepo.GetByIdAsync(id);
+            var spec = new ProductsWithTypesAndBrandsSpecifications(id);
+            return await productsRepo.GetEntityWithSpecification(spec);
+
         }
 
 
