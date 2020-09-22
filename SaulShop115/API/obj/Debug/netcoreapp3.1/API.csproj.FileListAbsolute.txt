@@ -63,3 +63,5 @@ D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\API\bin\Debug\netcoreapp3
 D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
 D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\API\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
