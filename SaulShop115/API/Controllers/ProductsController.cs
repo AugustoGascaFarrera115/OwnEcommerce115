@@ -9,6 +9,8 @@ using Core.Interfaces;
 using Core.Specifications;
 using API.Dtos;
 using AutoMapper;
+using API.Error;
+using Microsoft.AspNetCore.Http;
 
 namespace API.Controllers
 {
@@ -73,6 +75,8 @@ namespace API.Controllers
 
 
         [HttpGet("{id}")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(ApiResponse),StatusCodes.Status404NotFound)]
         public async Task<ActionResult<ProductToReturnDto>> GetProduct(int id)
         {
             //return await productsRepo.GetByIdAsync(id);
@@ -90,6 +94,11 @@ namespace API.Controllers
                 ProductType = product.ProductType.Name
 
             }; */
+
+            if(product == null)
+            {
+                return NotFound(new ApiResponse(404));
+            }
 
             return mapper.Map<Product,ProductToReturnDto>(product);
 

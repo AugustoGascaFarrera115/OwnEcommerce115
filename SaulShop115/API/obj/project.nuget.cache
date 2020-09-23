@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fMxnjKsiP2Q5ipmWvs+LRHtJ54rwlpiaePaG7ruucx5YVRERVAs6ui6vfCr3otzPagsUPfwFWgdZke4NSOcu/g==",
+  "dgSpecHash": "DqRxJ7+d67Mia5b879+Hxli2ISkXIkaA4QO43R3fmo6Jz0UWKAoEqz84YbrwE4VzI/9lgvMJolSYJEc4QxSN8w==",
   "success": true,
   "projectFilePath": "D:\\Universidad\\NetProjects\\OwnEcommerce115\\SaulShop115\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -32,10 +32,14 @@
     "C:\\Users\\Felipe Gasca\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Felipe Gasca\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Felipe Gasca\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.2\\sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "C:\\Users\\Felipe Gasca\\.nuget\\packages\\sqlitepclraw.core\\2.0.2\\sqlitepclraw.core.2.0.2.nupkg.sha512",
     "C:\\Users\\Felipe Gasca\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.2\\sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
     "C:\\Users\\Felipe Gasca\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.2\\sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
+    "C:\\Users\\Felipe Gasca\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.2\\swashbuckle.aspnetcore.swagger.5.6.2.nupkg.sha512",
+    "C:\\Users\\Felipe Gasca\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.2\\swashbuckle.aspnetcore.swaggergen.5.6.2.nupkg.sha512",
+    "C:\\Users\\Felipe Gasca\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.2\\swashbuckle.aspnetcore.swaggerui.5.6.2.nupkg.sha512",
     "C:\\Users\\Felipe Gasca\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\Felipe Gasca\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\Felipe Gasca\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",

@@ -2,11 +2,13 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
-  <ItemGroup> 
-    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" /> 
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.4" />
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.4"/>
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.6.2"/>
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.6.2"/>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj"/>
   </ItemGroup>
 </Project>
