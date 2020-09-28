@@ -1,3 +1,5 @@
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb
 D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
 D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
 D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
@@ -8,5 +10,3 @@ D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Infrastructure\obj\Debug\
 D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
 D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CoreCompileInputs.cache
 D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
-D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
-D:\Universidad\NetProjects\OwnEcommerce115\SaulShop115\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb
